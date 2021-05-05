@@ -11,3 +11,10 @@ Os seguintes frameworks podem ser usados nos componentes (é possível usar um p
 Segue o desenho:
 
 ![arquitetura](uml_desafio.png)
+
+## Diferenciais
+* Testes unitários com coverage acima de 50%
+* Código limpo e lintado
+* Usar Kafka na api de integração
+* Criar os fronts
+* Documentação de cada api, como rodar e como testar em um README.md
